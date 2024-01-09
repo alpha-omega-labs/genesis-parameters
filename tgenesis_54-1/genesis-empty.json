@@ -50,7 +50,7 @@
     },
     "crisis": {
       "constant_fee": {
-        "denom": "tel1",
+        "denom": "el1",
         "amount": "1000"
       }
     },
@@ -79,7 +79,7 @@
     "evm": {
       "accounts": [],
       "params": {
-        "evm_denom": "tel1",
+        "evm_denom": "el1",
         "enable_create": true,
         "enable_call": true,
         "extra_eips": [],
@@ -126,7 +126,7 @@
       "deposit_params": {
         "min_deposit": [
           {
-            "denom": "tel1",
+            "denom": "el1",
             "amount": "10000000"
           }
         ],
@@ -188,7 +188,7 @@
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
-        "mint_denom": "tel1",
+        "mint_denom": "el1",
         "inflation_rate_change": "0.130000000000000000",
         "inflation_max": "0.200000000000000000",
         "inflation_min": "0.070000000000000000",
@@ -214,7 +214,7 @@
         "max_validators": 100,
         "max_entries": 7,
         "historical_entries": 10000,
-        "bond_denom": "tel1"
+        "bond_denom": "el1"
       },
       "last_total_power": "0",
       "last_validator_powers": [],
