@@ -13,8 +13,13 @@
 
 ## Overview
 
-This repository currently contains for every known GenesisL1 Chain ID:
+### Chain IDs
 
-- the valid `genesis.json` **state** files,
+- genesis_29-1 _(archived)_
+- genesis_29-2 _(current mainnet)_
+- tgenesis_54-1 _(current testnet)_
+
+### Includes
+- Valid `genesis.json` **state** files,
 - Up-to-date **seeds** lists _and_
 - Up-to-date **peers** lists.
