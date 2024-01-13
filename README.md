@@ -15,13 +15,13 @@
 
 ### Chain IDs
 
-- genesis*29-1 *(archived)\_
-- genesis*29-2 *(current mainnet)\_
-- tgenesis*54-1 *(current testnet)\_
+- genesis_29-1 _(archived)_
+- genesis_29-2 _(current mainnet)_
+- tgenesis_54-1 _(current testnet)_
 
 ### Includes
 
-- Branding _assets_,
+- Branding **assets**,
 - Valid `genesis.json` **state** files,
 - Up-to-date **rpc_servers** lists,
 - Up-to-date **seeds** lists _and_
