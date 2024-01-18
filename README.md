@@ -11,7 +11,7 @@
 > [!TIP]
 > **Auto-fetch**
 >
-> Instead of manually downloading these files, use the `fetch/state.sh`, `fetch/peers.sh` or `fetch/rpcs.sh` scripts in the `/utils`-folder found in the main repositories.
+> Instead of manually downloading these files, use the `fetch/state.sh`, `fetch/peers.sh` or `fetch/rpcs.sh` scripts in the `/utils`-folder found in the main repositories ([`genesis-ethermint`](https://github.com/alpha-omega-labs/genesis-ethermint) and [`genesis-crypto`](https://github.com/alpha-omega-labs/genesis-crypto)).
 
 ### Chain IDs
 
