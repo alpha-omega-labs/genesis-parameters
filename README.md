@@ -1,5 +1,5 @@
 <h1 align="center">
-  GenesisL1 Parameters
+  GenesisL1 Chain Parameters
 </h1>
 
 <p align="center">
