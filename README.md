@@ -17,7 +17,7 @@
 
 - genesis_29-1 _(archived)_
 - genesis_29-2 _(current mainnet)_
-- tgenesis_54-1 _(current testnet)_
+- tgenesis_290-1 _(current testnet)_
 
 ### Includes
 
